@@ -1,0 +1,2 @@
+# CSCD330-Network-Programming
+CSCD330 is a basic introduction to computer networking. Topics covered: networking concepts which will include network topology, network devices, network protocols and network applications. Since this course also includes programming, we will also complete several client/server programs in order to illustrate the programming concepts associated with writing network programs.
